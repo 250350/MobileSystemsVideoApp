@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Gryas -->
+    <color name="surface_0">#121212</color>
+    <color name="surface_1">#1E1E1E</color>
+    <color name="surface_2">#2C2C2C</color>
+
+    <!-- Text/icons -->
+    <color name="on_surface_high">#FFFFFF</color>
+    <color name="on_surface_medium">#B3B3B3</color>
+    <color name="on_surface_disabled">#808080</color>
+
+
+    <color name="accent">#BB86FC</color>
+</resources>

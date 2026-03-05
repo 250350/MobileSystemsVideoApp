@@ -1,0 +1,22 @@
+<resources>
+    <style name="Ciemny" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="android:colorBackground">@color/surface_0</item>
+        <item name="colorSurface">@color/surface_0</item>
+        <item name="colorOnSurface">@color/on_surface_high</item>
+
+        <item name="colorPrimary">@color/surface_1</item>
+        <item name="colorOnPrimary">@color/on_surface_high</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorOnSecondary">@color/on_surface_high</item>
+
+
+        <item name="android:navigationBarColor">@color/surface_0</item>
+        <item name="android:statusBarColor">@color/surface_0</item>
+
+
+
+
+        <item name="useMaterialThemeColors">true</item>
+    </style>
+</resources>
